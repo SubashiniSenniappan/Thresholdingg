@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/f4b1a912-e156-4a6e-aac9-87f957cc05db)# EX 8 - THRESHOLDING
+# EX 8 - THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
